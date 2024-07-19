@@ -1,0 +1,39 @@
+/* Add these styles to style.css */
+
+.form-control {
+    margin-bottom: 15px;
+  }
+  
+  .form-control label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-control input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: var(--box-shadow);
+    border-radius: 5px;
+  }
+  
+  .container h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .container p {
+    text-align: center;
+  }
+  
+  .container a {
+    color: #9c88ff;
+  }
+  
